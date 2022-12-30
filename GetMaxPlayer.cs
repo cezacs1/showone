@@ -3,7 +3,7 @@
             new Thread
                 while (*cheat run*)
                 {
-                    if (!connected) contiune;
+                    if (!connected) continue;
 
                     for (int i = 0; i < 64; i++)
                     {
